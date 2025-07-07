@@ -6,7 +6,7 @@ If you're using System Mechanic and want to manage your subscription, billing, o
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://iolohelp.hostlink.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with PC Matic</a>
+       <a href="https://iolohelp.hostlink.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started IOLO Portal</a>
    </div>
 Many users struggle with where to go, what credentials are needed, or how to reset passwords. This article walks you through everything—from locating the login portal to troubleshooting common problems—so you can **Log into My IOLO Account** without delays. Follow our in-depth guide for a smooth and secure **System Mechanic Sign in**.
 
