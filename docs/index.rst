@@ -3,6 +3,11 @@ How to Log into My IOLO Account? Step-by-Step Guide for System Mechanic Users
 
 If you're using System Mechanic and want to manage your subscription, billing, or software tools, the first step is to **Log into My IOLO Account**. Whether you're a new or returning user, being able to **Log into My IOLO Account** ensures that you can access downloads, activate your license, view system reports, and update your settings securely. With so many users relying on System Mechanic to optimize their PC performance, the **System Mechanic Sign in** process is essential for full access to the product’s features.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://iolohelp.hostlink.click/desk/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with PC Matic</a>
+   </div>
 Many users struggle with where to go, what credentials are needed, or how to reset passwords. This article walks you through everything—from locating the login portal to troubleshooting common problems—so you can **Log into My IOLO Account** without delays. Follow our in-depth guide for a smooth and secure **System Mechanic Sign in**.
 
 Where to Log into My IOLO Account
